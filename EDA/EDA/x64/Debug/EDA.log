@@ -1,0 +1,18 @@
+﻿  funcoes.c
+C:\Users\malhe\OneDrive\Ambiente de Trabalho\EDA\EDA\funcoes.c(218,15): warning C4476: 'fscanf': tipo desconhecido de caractere de campo '.' no especificador de formato
+C:\Users\malhe\OneDrive\Ambiente de Trabalho\EDA\EDA\funcoes.c(218,74): warning C4474: 'fscanf': excesso de argumentos transmitidos para cadeia de caracteres de formato
+C:\Users\malhe\OneDrive\Ambiente de Trabalho\EDA\EDA\funcoes.c(218,74): message : espaços reservados e seus parâmetros esperam 3 argumentos variadic, mas 4 foram fornecidos
+C:\Users\malhe\OneDrive\Ambiente de Trabalho\EDA\EDA\funcoes.c(246,11): warning C4133: '=': tipos incompatíveis - de 'char *' para 'Grafo'
+C:\Users\malhe\OneDrive\Ambiente de Trabalho\EDA\EDA\funcoes.c(259,13): warning C4133: '=': tipos incompatíveis - de 'char *' para 'Grafo'
+C:\Users\malhe\OneDrive\Ambiente de Trabalho\EDA\EDA\funcoes.c(408,21): warning C4028: parâmetro formal 1 diferente da declaração
+C:\Users\malhe\OneDrive\Ambiente de Trabalho\EDA\EDA\funcoes.c(420,20): warning C4477: 'fscanf': a cadeia de formato '%d' requer um argumento do tipo 'int *', mas um argumento variadic 3 tem o tipo 'float *'
+C:\Users\malhe\OneDrive\Ambiente de Trabalho\EDA\EDA\funcoes.c(420,20): warning C4473: 'fscanf' : não há argumentos suficientes transmitidos para a cadeia de caracteres de formato
+C:\Users\malhe\OneDrive\Ambiente de Trabalho\EDA\EDA\funcoes.c(420,20): message : espaços reservados e seus parâmetros esperam 4 argumentos variadic, mas 3 foram fornecidos
+C:\Users\malhe\OneDrive\Ambiente de Trabalho\EDA\EDA\funcoes.c(420,20): message : o argumento variadic 4 ausente é requerido pela cadeia de formato '%f'
+C:\Users\malhe\OneDrive\Ambiente de Trabalho\EDA\EDA\funcoes.c(422,15): warning C4047: 'função': 'Grafo' difere em níveis de indireção de 'Grafo *'
+C:\Users\malhe\OneDrive\Ambiente de Trabalho\EDA\EDA\funcoes.c(422,15): warning C4024: 'criarAresta': tipos diferentes para parâmetro formal e real 1
+  principal.c
+C:\Users\malhe\OneDrive\Ambiente de Trabalho\EDA\EDA\principal.c(142,11): warning C4129: '=': sequência de escape de caractere não reconhecida
+C:\Users\malhe\OneDrive\Ambiente de Trabalho\EDA\EDA\principal.c(41,6): warning C4101: 'caminho': variável local não referenciada
+  Gerando Código...
+  EDA.vcxproj -> C:\Users\malhe\OneDrive\Ambiente de Trabalho\EDA\EDA\x64\Debug\EDA.exe
